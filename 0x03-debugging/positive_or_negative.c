@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
-* main - tests function that prints if integer is positive or negative
+* positive_or_negative - function prints if integer is positive or negative
+* @i:int will be positive_or_negative
 * Return: 0
 */
 
