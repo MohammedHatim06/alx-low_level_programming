@@ -1,4 +1,4 @@
-#include "mzin.h"
+#include "main.h"
 
 /**
  * _strlen - find length of a string
@@ -25,7 +25,7 @@ int _strlen(char *s)
 
 char *argstostr(int ac, char **av)
 {
-	int i 0, nc = 0, j = 0, cmpt = 0;
+	int i = 0, nc = 0, j = 0, cmpt = 0;
 
 	char *s;
 
