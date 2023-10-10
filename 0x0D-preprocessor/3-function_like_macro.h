@@ -1,6 +1,6 @@
 #ifndef _FUNCTION_LIKE_MARO_H
 #define _FUNCTION_LIKE_MARO_H
 
-#define ABS(x) ((x) < 0 ? (-(x)) : (0))
+#define ABS(x) ((x) < 0 ? (-(x)) : (x))
 
 #endif /* _FUNCTION_LIKE_MARO_H */
